@@ -1,7 +1,7 @@
 module Metro
   module Ui
     module Rails
-      VERSION = "0.15.8.15"
+      VERSION = "2.0.3"
     end
   end
 end
